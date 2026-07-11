@@ -2,18 +2,18 @@
 **MERN Stack Developer || DSA Explorer**
 
 # About Me
-- 🔭 **Turning ideas into real-world web applications using the MERN Stack
-- 🌱 **Passionate about Data Structures & Algorithms because every bug is just another puzzle waiting to be solved
-- 😄 **I enjoy building backend systems, APIs, authentication, databases and problem-solving more than spending hours choosing colors in CSS
-- 📫 **Solved hunderds of coding problems while continuously learning through projects and challenges
-- ⚡ **Always excited to learn new technologies, collaborate on interesting projects and improve as a developer every day
+- 🔭 Turning ideas into real-world web applications using the MERN Stack
+- 🌱 Passionate about Data Structures & Algorithms because every bug is just another puzzle waiting to be solved
+- 😄 I enjoy building backend systems, APIs, authentication, databases and problem-solving more than spending hours choosing colors in CSS
+- 📫 Solved hunderds of coding problems while continuously learning through projects and challenges
+- ⚡ Always excited to learn new technologies, collaborate on interesting projects and improve as a developer every day
 
-# Fun Facts
+## Fun Facts
 - "First I solve the bug... then I realize I created three new ones."
 - "Backend works perfectly. Frontend just needs 5 more minutes."
 - "If code is running then dont touch it again."
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-danish-793868350) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohddanish1729@gmail.com) 
 
 # 💻 Tech Stack:
