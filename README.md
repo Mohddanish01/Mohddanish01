@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Mohd Danish
-**MERN Stack Developer || DSA Explorer**
+   **MERN Stack Developer || DSA Explorer**
 
 # About Me
 - 🔭 Turning ideas into real-world web applications using the MERN Stack
@@ -11,7 +11,7 @@
 ## Fun Facts
 - "First I solve the bug... then I realize I created three new ones."
 - "Backend works perfectly. Frontend just needs 5 more minutes."
-- "If code is running then dont touch it again."
+- "If code is running then don't touch it again."
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-danish-793868350) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohddanish1729@gmail.com) 
